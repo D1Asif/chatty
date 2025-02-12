@@ -1,5 +1,6 @@
 # Chatty
-A real-time chat application built using the MERN stack, Socket.io, and TailwindCSS. Chatty delivers a seamless messaging experience with features like JWT-based authentication, real-time messaging, and online user status tracking, theme selection etc. [Live Link](https://chatty-zyee.onrender.com/)
+A real-time chat application built using the MERN stack, Socket.io, and TailwindCSS. Chatty delivers a seamless messaging experience with features like JWT-based authentication, real-time messaging, and online user status tracking, theme selection etc. [Live Link](https://chatty-zyee.onrender.com/) 
+Credentials: Email: abc@mail.com, Password: 12345678 
 
 ## 🌟 Features  
 - **Tech Stack:**  
